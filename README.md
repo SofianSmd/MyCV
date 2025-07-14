@@ -24,7 +24,7 @@ Une application iOS simple et élégante en **SwiftUI** permettant de consulter,
 ---
 
 ## 📁 Arborescence
-
+```
 MyCVApp/
 ├── Assets/
 │   ├── CV_Sofian_SMIMID_DevIOS.pdf
@@ -38,6 +38,7 @@ MyCVApp/
 │   └── PDFKitView.swift               # Wrapper PDFKit pour SwiftUI
 ├── MyCVApp.swift                      # Point d’entrée de l’app
 ├── README.md
+```
 
 ---
 
@@ -49,5 +50,18 @@ MyCVApp/
 4.	Lance l’application sur un simulateur ou un appareil physique
 5.	Profite d’une expérience fluide pour découvrir mon CV et ma lettre de motivation directement depuis un iPhone 📱
 
+---
 
+## 👤 Auteur
+
+**Sofian Smimid**  
+📧 sofian.smimid@gmail.com  
+📱 07 86 54 70 02  
+📍 Saint-Julien-aux-Bois, France  
+🛞 Permis B + véhicule  
+🔗 [LinkedIn](https://linkedin.com/in/sofian-smimid)
+
+---
+
+> Un CV, c’est bien. Une application iOS pour le présenter, c’est mieux. 🚀
    
