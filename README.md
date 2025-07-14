@@ -59,7 +59,6 @@ MyCVApp/
 📱 07 86 54 70 02  
 📍 Saint-Julien-aux-Bois, France  
 🛞 Permis B + véhicule  
-🔗 [LinkedIn](https://linkedin.com/in/sofian-smimid)
 
 ---
 
