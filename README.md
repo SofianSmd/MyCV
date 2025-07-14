@@ -8,7 +8,6 @@ Une application iOS simple et élégante en **SwiftUI** permettant de consulter,
 
 - 📄 Afficher mon **CV** (au format PDF) directement dans l’application.
 - 💌 Intégrer également ma **lettre de motivation** au même format.
-- 📤 Offrir une **fonction de téléchargement et de partage** pour chaque document.
 - 🧭 Proposer une navigation fluide entre **accueil, CV, LM et contact**.
 
 ---
@@ -18,7 +17,6 @@ Une application iOS simple et élégante en **SwiftUI** permettant de consulter,
 - **Langage** : Swift 5.9
 - **UI** : SwiftUI
 - **PDF Rendering** : PDFKit
-- **Partage** : UIActivityViewController (via SwiftUI wrapper)
 - **Architecture** : View-based navigation
 
 ---
